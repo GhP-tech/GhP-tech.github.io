@@ -21,4 +21,4 @@ Enter the project folder and add an index.html file:
 
 `git push -u origin main`
 
-Fire up a browser and go to https://<organisation>.github.io.
+Fire up a browser and go to `https://<organisation>.github.io`
